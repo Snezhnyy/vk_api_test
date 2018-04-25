@@ -1,0 +1,51 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "13e9cdb37a36dc2f422dc15cb09e36abb1767048"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "vk_api/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "11.0.2",
+          "xNet": "3.3.4"
+        },
+        "runtime": {
+          "vk_api.dll": {}
+        }
+      },
+      "Newtonsoft.Json/11.0.2": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        }
+      },
+      "xNet/3.3.4": {
+        "runtime": {
+          "lib/xNet.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "vk_api/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newtonsoft.Json/11.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-IvJe1pj7JHEsP8B8J8DwlMEx8UInrs/x+9oVY+oCD13jpLu4JbJU2WCIsMRn5C4yW9+DgkaO8uiVE5VHKjpmdQ==",
+      "path": "newtonsoft.json/11.0.2",
+      "hashPath": "newtonsoft.json.11.0.2.nupkg.sha512"
+    },
+    "xNet/3.3.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/RHx0Z94KuAN57wRr4WFQyIcfy/0rmEh5iRKWniNtSxkDPvVlxWXW/XGLICH6ivqtJQHgGyMXlqYLshYjIHkYQ==",
+      "path": "xnet/3.3.4",
+      "hashPath": "xnet.3.3.4.nupkg.sha512"
+    }
+  }
+}

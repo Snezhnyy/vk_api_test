@@ -1,0 +1,10 @@
+/home/snezhnyy/Documents/sharp/vk_api/bin/Debug/netcoreapp2.0/vk_api.deps.json
+/home/snezhnyy/Documents/sharp/vk_api/bin/Debug/netcoreapp2.0/vk_api.runtimeconfig.json
+/home/snezhnyy/Documents/sharp/vk_api/bin/Debug/netcoreapp2.0/vk_api.runtimeconfig.dev.json
+/home/snezhnyy/Documents/sharp/vk_api/bin/Debug/netcoreapp2.0/vk_api.dll
+/home/snezhnyy/Documents/sharp/vk_api/bin/Debug/netcoreapp2.0/vk_api.pdb
+/home/snezhnyy/Documents/sharp/vk_api/obj/Debug/netcoreapp2.0/vk_api.csproj.CoreCompileInputs.cache
+/home/snezhnyy/Documents/sharp/vk_api/obj/Debug/netcoreapp2.0/vk_api.AssemblyInfoInputs.cache
+/home/snezhnyy/Documents/sharp/vk_api/obj/Debug/netcoreapp2.0/vk_api.AssemblyInfo.cs
+/home/snezhnyy/Documents/sharp/vk_api/obj/Debug/netcoreapp2.0/vk_api.dll
+/home/snezhnyy/Documents/sharp/vk_api/obj/Debug/netcoreapp2.0/vk_api.pdb
