@@ -17,7 +17,7 @@ namespace vk_api
             // move to json file later
             Token = JsonConvert.DeserializeObject<Dictionary<string, string>>(File.ReadAllText("BotPassport.json"))["Token"];
             Console.WriteLine(Token);
-            
+
         }
     }
 }
